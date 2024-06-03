@@ -16,12 +16,12 @@ El proyecto MOE Air Quality tiene como objetivo proporcionar un sistema integral
   - **Cantidad:** 2
 - **Nombre:** Microcontrolador ESP32
   - **Imagen:**
-  ![Mi genial imagen](mi-imagen-genial.png)
-<img src="[Users/nayel/OneDrive/Escritorio/esp32.jpg]" alt="Mi genial imagen" />
+- ![esp32](https://github.com/nayemoya/MOE/assets/107650526/9769a898-499e-4028-b18a-68f05fd11648)
   - **Descripción:** Microcontrolador con conectividad Wi-Fi y Bluetooth, usado para procesar los datos de los sensores.
   - **Cantidad:** 1
 ### 5\. Historias de Usuario Épicas
 - **Cristian Emmanuel Gutiérrez Díaz:** Gestión de dióxido de carbono en el aire.
+
   - **ID:** H-1
   - **Historia:** Como una madre de casa quiero mantener mi casa con un ambiente seguro para mi familia. Quiero poder monitorear la calidad del aire de mi casa en mi teléfono o algún dispositivo especializado. Debe incluir gráficas, alertas, información relevante niveles de aire. En el Sprint número: 3 sprint.
 - **Nayeli Moya Díaz:** Desarrollo de web para datos reales.
