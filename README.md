@@ -103,7 +103,7 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 ![image](https://github.com/nayemoya/MOE/assets/99992053/d6b2c587-c396-4985-afab-0ebe5bc88796)
 
 
-    **Descripción:** Integración inicial del sensor MQ-135 y MQ-7 con el ESP32 y Buzzer, datos enviados a NodeRed para dashboard con datos historicos y actuales.
+  **Descripción:** Integración inicial del sensor MQ-135 y MQ-7 con el ESP32 y Buzzer, datos enviados a NodeRed para dashboard con datos historicos y actuales.
 - **Sprint 2 Resultado:**
   
 - **Sprint 3 Resultado:** 
