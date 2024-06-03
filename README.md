@@ -11,7 +11,7 @@ El proyecto MOE Air Quality tiene como objetivo proporcionar un sistema integral
 ### 4\. Hardware Empleado
 - **Nombre:** Sensor de Calidad del Aire (MQ-135)
   - **Imagen:**
-  - (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrtiyAjYFhako5EZVm8455ytGFni-aNoBHQ&s)
+  -![mq135](https://github.com/nayemoya/MOE/assets/107650526/16957d61-02b9-4ee7-9df5-83b05b292a0e)
   - **Descripción:** Sensor utilizado para medir la calidad del aire, detectando varios gases nocivos.
   - **Cantidad:** 2
 - **Nombre:** Microcontrolador ESP32
