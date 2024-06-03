@@ -94,12 +94,12 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 
 
 
-    **Descripción del Circuito:** Circuito que incluye el ESP32, sensores MQ-135, MQ-7, PH, y conexiones a una alarma sonora y una pantalla LED para visualización de datos.
+  **Descripción del Circuito:** Circuito que incluye el ESP32, sensores MQ-135, MQ-7, PH, y conexiones a una alarma sonora y una pantalla LED para visualización de datos.
 ### 10\. Resultados
 - **Sprint 1 Resultado:** 
 
 
-       **Descripción:** Integración inicial del sensor MQ-135 y MQ-7 con el ESP32 y Buzzer, datos enviados a NodeRed para dashboard con datos historicos y actuales.
+    **Descripción:** Integración inicial del sensor MQ-135 y MQ-7 con el ESP32 y Buzzer, datos enviados a NodeRed para dashboard con datos historicos y actuales.
 - **Sprint 2 Resultado:**
 - 
 - **Sprint 3 Resultado:** 
