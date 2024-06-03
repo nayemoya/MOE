@@ -1,7 +1,7 @@
 # MOE Air Quality
 ### 1\. Nombre del Proyecto
 **MOE Air Quality**
-### 2\. Enunciado de Visión
+### 2\. Visión
 Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar de las familias, asegurando que cada hogar pueda disfrutar de un aire limpio y saludable. Nuestro enfoque integral combina tecnología avanzada, información accesible y educación, construyendo un futuro más seguro y sostenible para todos.
 ### 3\. Software Empleado
   - **Nombre:** Wokwi
@@ -10,6 +10,12 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
     - **Licencia:** Open Source
   - **Nombre:** NodeRed
     - **Licencia:** Open Source
+  - **Librerias**
+      -machine
+      -time
+      -umqtt.simple
+      -network
+      -ssd1306
 ### 4\. Hardware Empleado
 |**Sensores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
