@@ -11,11 +11,11 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
   - **Nombre:** NodeRed
     - **Licencia:** Open Source
   - **Librerias**
-      -machine
-      -time
-      -umqtt.simple
-      -network
-      -ssd1306
+      - machine
+      - time
+      - umqtt.simple
+      - network
+      - ssd1306
 ### 4\. Hardware Empleado
 |**Sensores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
