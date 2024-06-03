@@ -5,11 +5,11 @@
 Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar de las familias, asegurando que cada hogar pueda disfrutar de un aire limpio y saludable. Nuestro enfoque integral combina tecnología avanzada, información accesible y educación, construyendo un futuro más seguro y sostenible para todos.
 ### 3\. Software Empleado
   - **Nombre:** Wokwi
-  -- **Licencia:** Open Source
+    - **Licencia:** Open Source
   - **Nombre:** Visual Studio Code
-  -- **Licencia:** Open Source
+    - **Licencia:** Open Source
   - **Nombre:** NodeRed
-  -- **Licencia:** Open Source
+    - **Licencia:** Open Source
 ### 4\. Hardware Empleado
 |**Sensores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
