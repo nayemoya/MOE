@@ -12,10 +12,16 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
     - **Licencia:** Open Source
   - **Librerias**
       - machine
+        - Pin
+        - ADC
+        - SoftI2C  
       - time
+        - sleep     
       - umqtt.simple
+        - MQTTClient   
       - network
       - ssd1306
+        - SSD1306_I2C 
 ### 4\. Hardware Empleado
 |**Sensores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
