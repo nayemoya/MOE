@@ -1,20 +1,22 @@
 # MOE
 ### 1\. Nombre del Proyecto
-**EcoCalidad MOE**
+**MOE Air Quality**
 ### 2\. Enunciado de Visión
-El proyecto EcoCalidad MOE tiene como objetivo proporcionar un sistema integral para la gestión y monitoreo de la calidad del aire en tiempo real, especialmente diseñado para hogares. Este sistema permitirá a los usuarios mantener un ambiente seguro para sus familias mediante la visualización de datos actuales e históricos, así como alertas sobre niveles de contaminantes y gases nocivos.
+El proyecto MOE Air Quality tiene como objetivo proporcionar un sistema integral para la gestión y monitoreo de la calidad del aire en tiempo real, especialmente diseñado para hogares. Este sistema permitirá a los usuarios mantener un ambiente seguro para sus familias mediante la visualización de datos actuales e históricos, así como alertas sobre niveles de contaminantes y gases nocivos.
 ### 3\. Software Empleado
 - **Nombre:** Arduino IDE
   - **Licencia:** Open Source
-- **Nombre:** ThingSpeak
-  - **Licencia:** Freemium
+- **Nombre:** Visual Studio Code
+  - **Licencia:** Open Source
 ### 4\. Hardware Empleado
 - **Nombre:** Sensor de Calidad del Aire (MQ-135)
-  - **Imagen:** 
+  - **Imagen:**
+  - (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsrtiyAjYFhako5EZVm8455ytGFni-aNoBHQ&s)
   - **Descripción:** Sensor utilizado para medir la calidad del aire, detectando varios gases nocivos.
   - **Cantidad:** 2
 - **Nombre:** Microcontrolador ESP32
-  - **Imagen:** 
+  - **Imagen:**
+  - (https://m.media-amazon.com/images/I/61o2ZUzB4XL._AC_UF894,1000_QL80_.jpg)
   - **Descripción:** Microcontrolador con conectividad Wi-Fi y Bluetooth, usado para procesar los datos de los sensores.
   - **Cantidad:** 1
 ### 5\. Historias de Usuario Épicas
@@ -52,7 +54,7 @@ Descripción generada automáticamente](Aspose.Words.6671419a-ba0f-4ee7-b452-24c
 - **Sprint 2:** 
 - **Sprint 3:** 
 ### 9\. Circuito Diseñado para el Proyecto Completo
-(Nota: Usa software como Fritzing o Tinkercad para diseñar el circuito.)
+(Nota: Usa software como Fritzing para diseñar el circuito.)
 
 - **Descripción del Circuito:** Circuito que incluye el ESP32, sensores MQ-135, y conexiones a una alarma sonora y una pantalla LED para visualización de datos.
 ### 10\. Resultados
