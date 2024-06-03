@@ -54,43 +54,41 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 - **Descripción del Prototipo:** Prototipo de dispositivo wearable con pantalla LED para mostrar la calidad del aire, equipado con sensores de gas y conectividad Wi-Fi para sincronización con aplicaciones móviles.
 ### 7\. Arquitectura del Proyecto
 - **Sensores:**
-- MQ-135 (Calidad del aire)
-- MQ-7 (Niveles de CO2)
-- Módulo PH (Medir PH del agua)
+  - MQ-135 (Calidad del aire)
+  - MQ-7 (Niveles de CO2)
+  - Módulo PH (Medir PH del agua)
 - **Actuadores:**
-- Alarma sonora para alertas de gases nocivos
-- LED RGB (Colores de notificación)
-- Ventilador (Ventila áreas o dispositivos)
-- LGVL (Permite la interacción con el usuario)
+  - Alarma sonora para alertas de gases nocivos
+  - LED RGB (Colores de notificación)
+  - Ventilador (Ventila áreas o dispositivos)
+  - LGVL (Permite la interacción con el usuario)
 - **Controladores:**
-- ESP32
+  - ESP32
 - **Plataforma de Base de Datos:**
-- MongoDB
+  - MongoDB
 - **Protocolo de Comunicación:**
-- MQTT para transmisión de datos entre sensores y servidor
+  - MQTT para transmisión de datos entre sensores y servidor
 - **Gestión de Energía:**
-- Puerto de carga
+  - Puerto de carga
 - **Dispositivos Receptores y/o Transmisores:**
-- Teléfonos móviles
-- Tabletas
-- Laptops
+  - Teléfonos móviles
+  - Tabletas
+  - Laptops
 ### 8\. Captura de Pantalla del Tablero Kanban
 ![TABLERO](https://github.com/nayemoya/MOE/assets/99992053/c901b438-3bdb-4d11-9acf-4a1732c544b4)
 
 
 - **Sprint 1:**
-- 
+  Para el primer sprint de 4 semanas tenemos el avance e funcionalidad para los sensores MQ-7 y MQ-135 en donde se da la información de la calidad del aire para el caso del 135 y los niveles de dióxido de carbono para el 7 con la ayuda de buzzer y LEDS para verificar que los niveles esten correctos o alerten en caso de algún resultado peligroso para el usuario y este sea avisado para tomar medidas necesarias. Se realizó el primer template del dashboard en el cual se manejan los datos actuales e historicos de ambos sensores para mantener en constante informe al usuario final. Además se ha realizado un diseño prototipo que funciona para dar idea del diseño final aunque este puede variar al final de acuerdo al avance del proyecto.  
 - **Sprint 2:** 
 - **Sprint 3:** 
 ### 9\. Circuito Diseñado para el Proyecto Completo
-(Nota: Usa software como Fritzing para diseñar el circuito.)
 
-- **Descripción del Circuito:** Circuito que incluye el ESP32, sensores MQ-135, y conexiones a una alarma sonora y una pantalla LED para visualización de datos.
+- **Descripción del Circuito:** Circuito que incluye el ESP32, sensores MQ-135, MQ-7, PH, y conexiones a una alarma sonora y una pantalla LED para visualización de datos.
 ### 10\. Resultados
 - **Sprint 1 Resultado:** 
-  - **Descripción:** Integración inicial del sensor MQ-135 con el ESP32, datos enviados a ThingSpeak.
-- **Sprint 2 Resultado:** 
-  - **Descripción:** Desarrollo de la web con visualización en tiempo real y alertas implementadas.
+  - **Descripción:** Integración inicial del sensor MQ-135 y MQ-7 con el ESP32 y Buzzer, datos enviados a NodeRed para dashboard con datos historicos y actuales.
+- **Sprint 2 Resultado:**
+- 
 - **Sprint 3 Resultado:** 
-  - **Descripción:** Visualización histórica de datos y pruebas comparativas de calidad del aire realizadas exitosamente.
-
+ 
