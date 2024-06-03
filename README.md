@@ -41,15 +41,21 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 - **Cristian Emmanuel Gutiérrez Díaz:** Gestión de dióxido de carbono en el aire.
 
   - **ID:** H-1
-   **Historia:** Como una madre de casa quiero mantener mi casa con un ambiente seguro para mi familia. Quiero poder monitorear la calidad del aire de mi casa en mi teléfono o algún dispositivo especializado. Debe incluir gráficas, alertas, información relevante niveles de aire. En el Sprint número: 3 sprint.
+
+
+    **Historia:** Como una madre de casa quiero mantener mi casa con un ambiente seguro para mi familia. Quiero poder monitorear la calidad del aire de mi casa en mi teléfono o algún dispositivo especializado. Debe incluir gráficas, alertas, información relevante niveles de aire. En el Sprint número: 3 sprint.
 - **Nayeli Moya Díaz:** Desarrollo de web para datos reales.
   - **ID:** H-2
-   **Historia:** Como una persona que usa mucho el teléfono quiero poder monitorear el aire de mi casa en mi dispositivo. Quiero poder monitorear la calidad del aire de mi casa en mi teléfono o algún dispositivo especializado. Debe incluir un dominio seguro, información del sistema, alertas, experiencia de usuario. En el Sprint número: 2 sprint.
+
+
+    **Historia:** Como una persona que usa mucho el teléfono quiero poder monitorear el aire de mi casa en mi dispositivo. Quiero poder monitorear la calidad del aire de mi casa en mi teléfono o algún dispositivo especializado. Debe incluir un dominio seguro, información del sistema, alertas, experiencia de usuario. En el Sprint número: 2 sprint.
 - **Oscar Iván Pérez Mejía:** Monitoreo de la calidad del aire en tiempo real.
   - **ID:** H-3
-   **Historia:** Como una abuela quiero saber si en mi casa hay algún gas o sustancia gaseosa nociva para mi salud. Quiero poder escuchar en caso de mala calidad de aire en mi ambiente o en caso de gases nocivos para la salud. Debe detectar gases nocivos, diferenciar tipos de gas (posible). En el Sprint número: 2 sprint.
+
+
+    **Historia:** Como una abuela quiero saber si en mi casa hay algún gas o sustancia gaseosa nociva para mi salud. Quiero poder escuchar en caso de mala calidad de aire en mi ambiente o en caso de gases nocivos para la salud. Debe detectar gases nocivos, diferenciar tipos de gas (posible). En el Sprint número: 2 sprint.
 ### 6\. Fotografía del Prototipo
-(Nota: Puedes usar software de diseño como Figma, Sketch o incluso PowerPoint para crear el diseño profesional del prototipo.)
+
 
 - **Descripción del Prototipo:** Prototipo de dispositivo wearable con pantalla LED para mostrar la calidad del aire, equipado con sensores de gas y conectividad Wi-Fi para sincronización con aplicaciones móviles.
 ### 7\. Arquitectura del Proyecto
@@ -79,7 +85,9 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 
 
 - **Sprint 1:**
-  Para el primer sprint de 4 semanas tenemos el avance e funcionalidad para los sensores MQ-7 y MQ-135 en donde se da la información de la calidad del aire para el caso del 135 y los niveles de dióxido de carbono para el 7 con la ayuda de buzzer y LEDS para verificar que los niveles esten correctos o alerten en caso de algún resultado peligroso para el usuario y este sea avisado para tomar medidas necesarias. Se realizó el primer template del dashboard en el cual se manejan los datos actuales e historicos de ambos sensores para mantener en constante informe al usuario final. Además se ha realizado un diseño prototipo que funciona para dar idea del diseño final aunque este puede variar al final de acuerdo al avance del proyecto.  
+
+
+   Para el primer sprint de 4 semanas tenemos el avance e funcionalidad para los sensores MQ-7 y MQ-135 en donde se da la información de la calidad del aire para el caso del 135 y los niveles de dióxido de carbono para el 7 con la ayuda de buzzer y LEDS para verificar que los niveles esten correctos o alerten en caso de algún resultado peligroso para el usuario y este sea avisado para tomar medidas necesarias. Se realizó el primer template del dashboard en el cual se manejan los datos actuales e historicos de ambos sensores para mantener en constante informe al usuario final. Además se ha realizado un diseño prototipo que funciona para dar idea del diseño final aunque este puede variar al final de acuerdo al avance del proyecto.  
 - **Sprint 2:** 
 - **Sprint 3:** 
 ### 9\. Circuito Diseñado para el Proyecto Completo
