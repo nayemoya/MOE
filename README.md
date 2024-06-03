@@ -75,9 +75,8 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 - Tabletas
 - Laptops
 ### 8\. Captura de Pantalla del Tablero Kanban
-![Captura de pantalla de computadora
+![TABLERO](https://github.com/nayemoya/MOE/assets/99992053/c901b438-3bdb-4d11-9acf-4a1732c544b4)
 
-Descripción generada automáticamente]
 
 - **Sprint 1:**
 - 
