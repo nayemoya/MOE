@@ -16,7 +16,8 @@ El proyecto MOE Air Quality tiene como objetivo proporcionar un sistema integral
   - **Cantidad:** 2
 - **Nombre:** Microcontrolador ESP32
   - **Imagen:**
-  - "https://m.media-amazon.com/images/I/61o2ZUzB4XL._AC_UF894,1000_QL80_.jpg">
+  ![Mi genial imagen](mi-imagen-genial.png)
+<img src="[mi-imagen-genial.p[https://m.media-amazon.com/images/I/61o2ZUzB4XL._AC_UF894,1000_QL80_.jpg]" alt="Mi genial imagen" />
   - **Descripción:** Microcontrolador con conectividad Wi-Fi y Bluetooth, usado para procesar los datos de los sensores.
   - **Cantidad:** 1
 ### 5\. Historias de Usuario Épicas
