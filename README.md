@@ -56,6 +56,7 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
     **Historia:** Como una abuela quiero saber si en mi casa hay algún gas o sustancia gaseosa nociva para mi salud. Quiero poder escuchar en caso de mala calidad de aire en mi ambiente o en caso de gases nocivos para la salud. Debe detectar gases nocivos, diferenciar tipos de gas (posible). En el Sprint número: 2 sprint.
 ### 6\. Fotografía del Prototipo
 
+![image](https://github.com/nayemoya/MOE/assets/99992053/f2e4836a-5746-400f-bab2-2dbc4b0133ee)
 
 - **Descripción del Prototipo:** Prototipo de dispositivo wearable con pantalla LED para mostrar la calidad del aire, equipado con sensores de gas y conectividad Wi-Fi para sincronización con aplicaciones móviles.
 ### 7\. Arquitectura del Proyecto
