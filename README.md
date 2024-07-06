@@ -31,7 +31,6 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 
 |**Actuadores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
-|*Ventilador de refrigeración*|![DIYables Ventilador de refrigeración de 12 V CC, funciona con Arduino, ESP32,  ESP8266, Raspberry Pi : Amazon.com.mx: Electrónicos](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.004.jpeg)|Ventila y refrigera dispositivos o áreas en un determinado rango|1|200\.00|
 |*Sirena*|![Principales tipos de sirenas de alarmas y donde pueden utilizarse - Zoom  Informatica](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.005.jpeg)|Se hace sonar en caso de algo que no funcione correctamente a modo de advertencia.|1|150\.00|
 |*LED RGB*|![Led RGB difuso 5mm cátodo común - Maker Creativo Store](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.006.jpeg)|Permite proyectar diferentes códigos de colores según se programe.|1|100\.00|
 |*OLED*|![Pantalla Oled](https://programarfacil.com/wp-content/uploads/2020/01/modulo-ssd1306-pantalla-oled-arduino.jpg)| Pequeña pantalla de alta calidad utilizada comúnmente en proyectos de electrónica y microcontroladores. Estas pantallas se integran fácilmente con la ESP32 y son populares en el desarrollo de proyectos de IoT, wearables, y otros dispositivos compactos. |1|90\.00|
