@@ -34,7 +34,9 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 |*Ventilador de refrigeración*|![DIYables Ventilador de refrigeración de 12 V CC, funciona con Arduino, ESP32,  ESP8266, Raspberry Pi : Amazon.com.mx: Electrónicos](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.004.jpeg)|Ventila y refrigera dispositivos o áreas en un determinado rango|1|200\.00|
 |*Sirena*|![Principales tipos de sirenas de alarmas y donde pueden utilizarse - Zoom  Informatica](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.005.jpeg)|Se hace sonar en caso de algo que no funcione correctamente a modo de advertencia.|1|150\.00|
 |*LED RGB*|![Led RGB difuso 5mm cátodo común - Maker Creativo Store](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.006.jpeg)|Permite proyectar diferentes códigos de colores según se programe.|1|100\.00|
-|*OLED*|![Placa de desarrollo ESP32, módulo de desarrollo de pantalla táctil LCD TFT  de 2,8 pulgadas, 240x320, doble núcleo, pantalla de visualización  inteligente MCU RGB - AliExpress]([Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.007.png](https://http2.mlstatic.com/D_NQ_NP_814446-MLM31219738451_062019-O.webp))![ESP32 display-7.0 Inch HMI Display 800x480 RGB TFT LCD Touch Screen  Compatible with Arduino/LVGL (ER-DIS08070H)](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.008.jpeg)|Permite una interacción vía táctil entre el dispositivo para actuadores y sensores.|1|500\.00|
+|*OLED*|![Led RGB difuso 5mm cátodo común - Maker Creativo Store](![lcd0007-pantalla-oled-0-96-spi-4p-blanco1](https://github.com/nayemoya/MOE/assets/107650526/d22328b1-2bed-4574-941c-3972d1f25267)
+)|Un OLED (Organic light-emitting diode) es un tipo de LED en el que la capa emisiva es está formada por un compuesto orgánico que emite luz en respuesta a la electricidad..|1|100\.00|
+
 
 
 ### 5\. Historias de Usuario Épicas
