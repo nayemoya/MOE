@@ -27,7 +27,7 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 | :-: | :-: | :-: | :-: | :-: |
 |*MQ-135*|![Módulo MQ135 Sensor De Calidad Del Aire detección de NH3 NOX Benceno CO2 :  Amazon.com.mx: Herramientas y Mejoras del Hogar](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.001.jpeg)|Ayuda a medir el nivel de calidad del aire|1|100\.00|
 |*MQ-7*|![Sensor MQ7 DE MONOXIDO DE Carbono MODULO Sensor para ARDUINO Raspberry :  Amazon.com.mx: Herramientas y Mejoras del Hogar](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.002.png)|Mide los niveles de CO2 en el aire|1|25\.00|
-|*Módulo de Sensor regulador de detección de valor de PH liquido*|![PH-4502C Sensor de PH Liquido con electrodo E201-BNC](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.003.jpeg)|Mide el PH del agua en una determinada altura|1|62\.00|
+
 
 |**Actuadores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
