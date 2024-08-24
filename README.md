@@ -107,6 +107,14 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 
   **Descripción:** Integración inicial del sensor MQ-135 y MQ-7 con el ESP32 y Buzzer, datos enviados a NodeRed para dashboard con datos historicos y actuales.
 - **Sprint 2 Resultado:**
-  
+
+![code](https://github.com/user-attachments/assets/309a1bde-1bb3-44ea-9f67-2fc0808b0414)
+
+  <img width="800" alt="Sin título" src="https://github.com/user-attachments/assets/164f31ca-0904-4c1f-b4bf-31fd7702208e">
+
+
 - **Sprint 3 Resultado:** 
- 
+![image](https://github.com/user-attachments/assets/bfc2f79b-ee13-4c56-b429-d16cc20ebcbe)
+
+ ![image](https://github.com/user-attachments/assets/2013d803-cd0b-439b-8e66-060292ba1c9c)
+
