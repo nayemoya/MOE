@@ -27,14 +27,16 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 | :-: | :-: | :-: | :-: | :-: |
 |*MQ-135*|![Módulo MQ135 Sensor De Calidad Del Aire detección de NH3 NOX Benceno CO2 :  Amazon.com.mx: Herramientas y Mejoras del Hogar](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.001.jpeg)|Ayuda a medir el nivel de calidad del aire|1|100\.00|
 |*MQ-7*|![Sensor MQ7 DE MONOXIDO DE Carbono MODULO Sensor para ARDUINO Raspberry :  Amazon.com.mx: Herramientas y Mejoras del Hogar](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.002.png)|Mide los niveles de CO2 en el aire|1|25\.00|
+|*MQ-2*|![image](https://github.com/user-attachments/assets/3df94d5c-b5ca-4138-844c-b00a7437ba50)|Mide los niveles de gas butano y LP en el aire|1|25\.00|
 
 
 |**Actuadores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
-|*Sirena*|![Principales tipos de sirenas de alarmas y donde pueden utilizarse - Zoom  Informatica](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.005.jpeg)|Se hace sonar en caso de algo que no funcione correctamente a modo de advertencia.|1|150\.00|
-|*LED RGB*|![Led RGB difuso 5mm cátodo común - Maker Creativo Store](Aspose.Words.82879a5a-f0fc-409b-863a-2d92cf150c80.006.jpeg)|Permite proyectar diferentes códigos de colores según se programe.|1|100\.00|
+|*DFPlayer Mini*|![image](https://github.com/user-attachments/assets/5743161a-79e8-46e8-a086-99aebb0b0d55)|Puede reproducir archivos MP3, WAV y WMA desde una tarjeta microSD o una memoria USB. Se usa para reproducir melodia de advertencia|1|140\.00|
+|*MODULO RGB*|![image](https://github.com/user-attachments/assets/6a4ad552-4c96-4cc7-8b85-11817582edc8)
+|Permite proyectar diferentes códigos de colores según se programe.|1|100\.00|
 |*OLED*|![Pantalla Oled](https://programarfacil.com/wp-content/uploads/2020/01/modulo-ssd1306-pantalla-oled-arduino.jpg)| Pequeña pantalla de alta calidad utilizada comúnmente en proyectos de electrónica y microcontroladores. Estas pantallas se integran fácilmente con la ESP32 y son populares en el desarrollo de proyectos de IoT, wearables, y otros dispositivos compactos. |1|90\.00|
-
+|*Bocinas*|![image](https://github.com/user-attachments/assets/d9915ce6-b44f-4b88-8c46-f5066d6d3956)|Reproducen la melodia de advertencia en un nivel de volumen adecuado|2|42\.00|
 ### 5\. Historias de Usuario Épicas
 - **Cristian Emmanuel Gutiérrez Díaz:** Gestión de dióxido de carbono en el aire.
 
@@ -61,12 +63,11 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 - **Sensores:**
   - MQ-135 (Calidad del aire)
   - MQ-7 (Niveles de CO2)
-  - Módulo PH (Medir PH del agua)
+  - MQ-2 (Medir niveles de gas butano y LP)
 - **Actuadores:**
-  - Alarma sonora para alertas de gases nocivos
-  - LED RGB (Colores de notificación)
-  - Ventilador (Ventila áreas o dispositivos)
-  - LGVL (Permite la interacción con el usuario)
+  - Bocinas de alarma sonora para alertas de gases nocivos
+  - Módulo RGB (Colores de notificación)
+  - DFPlayer mini reproduce la melodía deseada
 - **Controladores:**
   - ESP32
 - **Plataforma de Base de Datos:**
@@ -87,8 +88,10 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 
 
    Para el primer sprint de 4 semanas tenemos el avance e funcionalidad para los sensores MQ-7 y MQ-135 en donde se da la información de la calidad del aire para el caso del 135 y los niveles de dióxido de carbono para el 7 con la ayuda de buzzer y LEDS para verificar que los niveles esten correctos o alerten en caso de algún resultado peligroso para el usuario y este sea avisado para tomar medidas necesarias. Se realizó el primer template del dashboard en el cual se manejan los datos actuales e historicos de ambos sensores para mantener en constante informe al usuario final. Además se ha realizado un diseño prototipo que funciona para dar idea del diseño final aunque este puede variar al final de acuerdo al avance del proyecto.  
-- **Sprint 2:** 
-- **Sprint 3:** 
+- **Sprint 2:**
+  Se termino de definir el proyecto y se comenzo con el desarrollo de los sensores de MQ principalmente el 7 y el 2 con una funcionalidad similar, ademas se comenzo con el desarrollo de la aplicación de flutter en base a lo aprendido en clase, se hicierón modificaciones en el diseño para poder tener la mayor eficacía dentro del prototipo a entregar esto con la finildad de cumplir con los mandatos del docente, se desarrollo el sistema para el muestreo de datos en la pantalla OLED
+- **Sprint 3:**
+  Se terminó el desarrollo de los sensores y actuadores para su carga en la OLED, se comenzo el armado de la carcasa para el protipo tomando en cuenta el diseño y el acomodo del mismo para todos los sensores, se hizo una ultima modificación al diseño debido al cambio de requerimientos además de que se termino el desarrollo de la aplicación flutter para la visualización de datos
 ### 9\. Circuito Diseñado para el Proyecto Completo
 
 
