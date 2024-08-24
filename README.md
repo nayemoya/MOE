@@ -118,3 +118,7 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 
  ![image](https://github.com/user-attachments/assets/2013d803-cd0b-439b-8e66-060292ba1c9c)
 
+### Agradecimientos
+[CartaAgradecimiento.pdf](https://github.com/user-attachments/files/16734748/CartaAgradecimiento.pdf)
+
+
