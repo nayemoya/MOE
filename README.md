@@ -33,8 +33,7 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
 |**Actuadores**|**Imagen**|**Descripción**|**Cantidad**|**Precio**|
 | :-: | :-: | :-: | :-: | :-: |
 |*DFPlayer Mini*|![image](https://github.com/user-attachments/assets/5743161a-79e8-46e8-a086-99aebb0b0d55)|Puede reproducir archivos MP3, WAV y WMA desde una tarjeta microSD o una memoria USB. Se usa para reproducir melodia de advertencia|1|140\.00|
-|*MODULO RGB*|![image](https://github.com/user-attachments/assets/6a4ad552-4c96-4cc7-8b85-11817582edc8)
-|Permite proyectar diferentes códigos de colores según se programe.|1|100\.00|
+|*MODULO RGB*|![image](https://github.com/user-attachments/assets/6a4ad552-4c96-4cc7-8b85-11817582edc8)|Permite proyectar diferentes códigos de colores según se programe.|1|100\.00|
 |*OLED*|![Pantalla Oled](https://programarfacil.com/wp-content/uploads/2020/01/modulo-ssd1306-pantalla-oled-arduino.jpg)| Pequeña pantalla de alta calidad utilizada comúnmente en proyectos de electrónica y microcontroladores. Estas pantallas se integran fácilmente con la ESP32 y son populares en el desarrollo de proyectos de IoT, wearables, y otros dispositivos compactos. |1|90\.00|
 |*Bocinas*|![image](https://github.com/user-attachments/assets/d9915ce6-b44f-4b88-8c46-f5066d6d3956)|Reproducen la melodia de advertencia en un nivel de volumen adecuado|2|42\.00|
 ### 5\. Historias de Usuario Épicas
@@ -108,19 +107,21 @@ Con "MOE Air Quality", estamos comprometidos a proteger la salud y el bienestar 
   **Descripción:** Integración inicial del sensor MQ-135 y MQ-7 con el ESP32 y Buzzer, datos enviados a NodeRed para dashboard con datos historicos y actuales.
 - **Sprint 2 Resultado:**
 
-![code](https://github.com/user-attachments/assets/309a1bde-1bb3-44ea-9f67-2fc0808b0414)
+![codigo MOE](https://github.com/user-attachments/assets/3311217f-4e64-4c66-a148-01fcdecb5e0a)
+
 
   <img width="800" alt="Sin título" src="https://github.com/user-attachments/assets/164f31ca-0904-4c1f-b4bf-31fd7702208e">
 
 
 - **Sprint 3 Resultado:** 
-![image](https://github.com/user-attachments/assets/bfc2f79b-ee13-4c56-b429-d16cc20ebcbe)
+![Imagen de WhatsApp 2024-08-25 a las 20 03 41_d8415448](https://github.com/user-attachments/assets/5b307aa3-fcad-45b6-b790-63e607fd4b41)
+
 
  ![image](https://github.com/user-attachments/assets/2013d803-cd0b-439b-8e66-060292ba1c9c)
 
 **FUNCIONALIDAD**
 
-https://drive.google.com/file/d/1ZyJCnZ52DZjDmpdt2Z3fxgE8xKeecvo8/view?usp=drive_link
+https://drive.google.com/file/d/10VLo4SOqqSo5fqD2egmYXidVaUXrIiUm/view?usp=drivesdk
 
 ### Agradecimientos
 [CartaAgradecimiento.pdf](https://github.com/user-attachments/files/16734748/CartaAgradecimiento.pdf)
